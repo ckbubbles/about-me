@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ck also known as @ckbubbles 👋
-- 👀 I’m interested in DCL, NFTs, and web3 usesa nd creation 👀
-- 🌱 I’m currently learning Blender, and everything DCL 🌱
-- 💞️ I’m looking to collaborate on wearable designs, nail art, and general future creating with a tech focus 💞️
+- 👀 I’m interested in Nail Art and Web3 creation 👀
+- 🌱 I’m currently learning Blender and SDK to build expereiences in the Metaverse 🌱
+- 💞️ I’m looking to collaborate on wearable designs, nail art, and general future experience creating with a tech focus 💞️
 - 📫 How to reach me, is on twitter @iamckbubbles or IG @ckdesignedit 📫
 
 <!---
